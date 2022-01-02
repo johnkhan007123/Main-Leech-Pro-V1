@@ -4,5 +4,3 @@ if [[ -n $RCLONE_CONFIG ]]; then
 fi
 chmod +x extract
 python3 -m tobrot
-
-df
